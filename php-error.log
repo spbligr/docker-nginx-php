@@ -1,0 +1,31 @@
+[28-Dec-2017 18:03:10 Europe/Moscow] PHP Notice:  Use of undefined constant SDFSD - assumed 'SDFSD' in /app/public/index.php on line 5
+[28-Dec-2017 18:03:10 Europe/Moscow] PHP Warning:  A non-numeric value encountered in /app/public/index.php on line 6
+[28-Dec-2017 18:03:11 Europe/Moscow] PHP Notice:  Use of undefined constant SDFSD - assumed 'SDFSD' in /app/public/index.php on line 5
+[28-Dec-2017 18:03:11 Europe/Moscow] PHP Warning:  A non-numeric value encountered in /app/public/index.php on line 6
+[28-Dec-2017 18:04:56 Europe/Moscow] PHP Notice:  Use o in /app/public/index.php on line 5
+[28-Dec-2017 18:04:56 Europe/Moscow] PHP Warning:  A non in /app/public/index.php on line 6
+[28-Dec-2017 18:04:58 Europe/Moscow] PHP Notice:  Use o in /app/public/index.php on line 5
+[28-Dec-2017 18:04:58 Europe/Moscow] PHP Warning:  A non in /app/public/index.php on line 6
+[28-Dec-2017 18:05:05 Europe/Moscow] PHP Notice:  Use o in /app/public/index.php on line 5
+[28-Dec-2017 18:05:05 Europe/Moscow] PHP Warning:  A non in /app/public/index.php on line 6
+[28-Dec-2017 18:05:06 Europe/Moscow] PHP Notice:  Use o in /app/public/index.php on line 5
+[28-Dec-2017 18:05:06 Europe/Moscow] PHP Warning:  A non in /app/public/index.php on line 6
+[28-Dec-2017 18:05:06 Europe/Moscow] PHP Notice:  Use o in /app/public/index.php on line 5
+[28-Dec-2017 18:05:07 Europe/Moscow] PHP Warning:  A non in /app/public/index.php on line 6
+[28-Dec-2017 18:07:06 Europe/Moscow] PHP Notice:  Use o in /app/public/index.php on line 5
+[28-Dec-2017 18:07:06 Europe/Moscow] PHP Warning:  A non in /app/public/index.php on line 6
+[28-Dec-2017 18:07:07 Europe/Moscow] PHP Notice:  Use o in /app/public/index.php on line 5
+[28-Dec-2017 18:07:07 Europe/Moscow] PHP Warning:  A non in /app/public/index.php on line 6
+[28-Dec-2017 18:07:08 Europe/Moscow] PHP Notice:  Use o in /app/public/index.php on line 5
+[28-Dec-2017 18:07:08 Europe/Moscow] PHP Warning:  A non in /app/public/index.php on line 6
+[28-Dec-2017 18:07:16 Europe/Moscow] PHP Notice:  Use of undefined constant SDFSD - assumed 'SDFSD' in /app/public/index.php on line 5
+[28-Dec-2017 18:07:16 Europe/Moscow] PHP Warning:  A non-numeric value encountered in /app/public/index.php on line 6
+[28-Dec-2017 18:07:36 Europe/Moscow] PHP Notice:  Use of undefined constant SDFSD - assumed 'SDFSD' in /app/public/index.php on line 5
+[28-Dec-2017 18:07:36 Europe/Moscow] PHP Warning:  A non-numeric value encountered in /app/public/index.php on line 6
+[28-Dec-2017 18:10:14 Europe/Moscow] PHP Notice:  Use of undefined constant SDFSD - assumed 'SDFSD' in /app/public/index.php on line 5
+[28-Dec-2017 18:10:14 Europe/Moscow] PHP Warning:  A non-numeric value encountered in /app/public/index.php on line 6
+[28-Dec-2017 18:22:28 Europe/Moscow] PHP Notice:  Use of undefined constant SDFSD - assumed 'SDFSD' in /app/public/index.php on line 5
+[28-Dec-2017 18:22:28 Europe/Moscow] PHP Warning:  A non-numeric value encountered in /app/public/index.php on line 6
+[28-Dec-2017 18:23:29 Europe/Moscow] PHP Notice:  Use of undefined constant SDFSD - assumed 'SDFSD' in /app/public/index.php on line 5
+[28-Dec-2017 18:23:29 Europe/Moscow] PHP Warning:  A non-numeric value encountered in /app/public/index.php on line 6
+[28-Dec-2017 18:23:59 Europe/Moscow] PHP Parse error:  syntax error, unexpected '1212' (T_LNUMBER) in /app/public/index.php on line 10

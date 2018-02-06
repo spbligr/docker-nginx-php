@@ -1,0 +1,28 @@
+service:
+  restart: always
+  build: build
+  dockerfile: php-image/Dockerfile
+  volumes:
+    - "./:/app"
+  working_dir: /app
+  command: [
+      "php-fpm7", "-F",
+      "-d display_errors=0",
+      "-d log_errors=1",
+      "-d error_log=/app/php-error.log",
+      "-d log_errors_max_len=1024"]
+
+nginx:
+  restart: always
+  image: nginx:1.12
+  volumes:
+    - "./build/nginx/nginx.conf:/etc/nginx/nginx.conf"
+    - "./build/nginx/sites-enabled:/etc/nginx/sites-enabled"
+    - "./build/nginx/certs:/etc/nginx/certs"
+    - "./:/app"
+  links:
+    - service:service
+  ports:
+    - "80:80"
+    - "443:443"
+  command: [nginx-debug, '-g', 'daemon off;']
